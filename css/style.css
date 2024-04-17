@@ -137,6 +137,10 @@ h6 > a:hover {
   footer ul {
     display: block;
   }
+
+  footer ul li {
+    margin-top: 8px;
+  }
 }
 
 /* @media (max-width: 840px) {
